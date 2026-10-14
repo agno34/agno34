@@ -1,5 +1,3 @@
-# Ciao, sono Andrea
-
 **Sviluppo Software · Machine Learning · Data analysis**
 
 Laureato magistrale in Scienze Informatiche all'Università di Parma (110/110 e lode). Ho un percorso ampio, dallo sviluppo software e dai sistemi (C/C++, C#, Java, Python, Matlab, microservizi) al machine learning e all'analisi dei dati, passando per linguaggi e compilatori, programmazione dichiarativa e verifica del software.
