@@ -1,23 +1,21 @@
+**Informatico · Machine Learning · Sviluppo Software**
 
-**Data Science · Machine Learning · Sviluppo Software**
+Laureato magistrale in Scienze Informatiche all'Università di Parma (110/110 e lode).
+Ho un percorso ampio, dallo sviluppo software e dai sistemi (C/C++, C#, Java, Python,
+Matlab, microservizi, cloud, sicurezza) al machine learning e all'analisi dei dati,
+passando per linguaggi e compilatori, programmazione dichiarativa e verifica del software.
+Mi piace capire come funzionano le cose a fondo e costruire strumenti che funzionano davvero.
 
-Neolaureato magistrale in Scienze Informatiche all'Università di Parma (110/110 cum laude). Mi occupo di **algoritmi su grafi**, **machine learning** e **analisi di dati complessi**, con una passione per i problemi in cui struttura e algoritmi si incontrano.
+Nella tesi e nei tirocini ho sviluppato in C++ un algoritmo di ricerca approssimata
+di sottografi, applicato all'analisi non supervisionata di connettomi cerebrali da MRI.
 
-📍 Parma, Italia
+## Aree di competenza
 
----
-
-## 🔬 Di cosa mi occupo
-
-Nei due tirocini e nella tesi magistrale ho sviluppato in **C++** e **Python** un algoritmo di **isomorfismo approssimato di sottografi** e l'ho applicato a **grafi derivati da scansioni MRI cerebrali** (dataset OASIS-3). Ho costruito pipeline per l'estrazione e la pulizia delle feature e per l'analisi dei risultati: dalla **riduzione dimensionale** (PCA, UMAP) al **clustering gerarchico**.
-
-- 🧠 Analisi strutturale di connettomi cerebrali con teoria dei grafi
-- 🔍 Ricerca approssimata di sottografi (GraphGrepSX, RIBS)
-- 📉 Apprendimento non supervisionato e riduzione della dimensionalità
-- 🤖 Deep learning per classificazione testuale (LSTM)
-- 🧩 Programmazione dichiarativa e a vincoli (MiniZinc, Clingo/ASP)
-
----
+- **Sviluppo software:** C/C++, Python, Java (multithreaded), C#, microservizi, Docker, Git
+- **Machine learning e dati:** reti neurali, clustering, riduzione dimensionale (PCA, UMAP), data mining
+- **Linguaggi e verifica:** interpreti e compilatori, analisi statica, software sicuro e affidabile
+- **Programmazione dichiarativa:** MiniZinc (constraint programming), Answer Set Programming (Clingo)
+- **Algoritmi su grafi e analisi di neuroimmagini**
 
 ## 🚀 Progetti
 
