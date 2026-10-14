@@ -2,7 +2,7 @@
 
 **Informatico · Machine Learning · Sviluppo Software**
 
-Laureato magistrale in Scienze Informatiche all'Università di Parma (110/110 e lode). Ho un percorso ampio, dallo sviluppo software e dai sistemi (C/C++, Java, Python, microservizi, cloud, sicurezza) al machine learning e all'analisi dei dati, passando per linguaggi e compilatori, programmazione dichiarativa e verifica del software. Mi piace capire come funzionano le cose a fondo e costruire strumenti che funzionano davvero.
+Laureato magistrale in Scienze Informatiche all'Università di Parma (110/110 e lode). Ho un percorso ampio, dallo sviluppo software e dai sistemi (C/C++, C#, Java, Python, Matlab, microservizi) al machine learning e all'analisi dei dati, passando per linguaggi e compilatori, programmazione dichiarativa e verifica del software.
 
 Nella tesi e nei tirocini ho sviluppato in C++ un algoritmo di ricerca approssimata di sottografi, applicato all'analisi non supervisionata di connettomi cerebrali da MRI (dataset OASIS-3), con pipeline in Python e Bash per l'estrazione delle feature, la riduzione dimensionale (PCA, UMAP) e il clustering gerarchico.
 
@@ -16,7 +16,6 @@ Nella tesi e nei tirocini ho sviluppato in C++ un algoritmo di ricerca approssim
 - **Machine learning e dati:** reti neurali, clustering, riduzione dimensionale (PCA, UMAP), data mining
 - **Linguaggi e verifica:** interpreti e compilatori, analisi statica, software sicuro e affidabile
 - **Programmazione dichiarativa:** MiniZinc (constraint programming), Answer Set Programming (Clingo)
-- **Algoritmi su grafi e analisi di neuroimmagini**
 
 ---
 
@@ -60,10 +59,6 @@ Modellazione del problema del gerrymandering in Answer Set Programming, con dive
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logoColor=white)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![UMAP](https://img.shields.io/badge/UMAP-4B8BBE?style=flat&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
