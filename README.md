@@ -39,7 +39,7 @@ Interpreter for a small programming language with C-like syntax, supporting prim
 
 ### Robot Motion Planning Using Constraint Programming
 
-[**pezwastaken/constraints-moving-boxes**](https://github.com/pezwastaken/constraints-moving-boxes) · MiniZinc
+[**pezwastaken/constraints-moving-boxes**](https://github.com/pezwastaken/constraints-moving-boxes) · MiniZinc, C++, Python
 
 University project in constraint programming: a MiniZinc model for planning the movements of a robot that moves boxes, featuring global constraints and an automated test suite.
 
