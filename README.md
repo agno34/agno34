@@ -1,4 +1,3 @@
-# Ciao, sono Andrea 👋
 
 **Data Science · Machine Learning · Sviluppo Software**
 
